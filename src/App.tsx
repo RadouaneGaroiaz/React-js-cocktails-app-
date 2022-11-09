@@ -12,7 +12,7 @@ const App: FunctionComponent = () => {
         {/* la barre de navigation commun à toutes les pages*/}
         <nav>
             <div className='nav-wrapper teal'>
-                <Link to="/" className="brand-logo center">NeoFarm</Link>
+                <Link to="/" className="brand-logo center">Cocktails Liste</Link>
             </div>
         </nav>
 
